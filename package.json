@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "transpile": "node ./transpile.js YOUR_SRC_DIR_PATH"
+  },
+  "dependencies": {
+    "@babel/core": "^7.26.9",
+    "@babel/preset-env": "^7.26.9",
+    "core-js": "^3.41.0"
+  }
+}
